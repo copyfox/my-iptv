@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
 vjms://58.215.133.154:8500:3502/live/cid=362#http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video#p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
 http://m.567it.com/jade.m3u8
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", TVB翡翠台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/b3a93cbbd1908e81783879747bb3090a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="", TVB翡翠台
+#EXTINF:-1 tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="", TVB翡翠台
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="", TVB翡翠台
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="", TVB翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1, 鳳凰中文台
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
