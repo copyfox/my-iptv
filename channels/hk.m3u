@@ -31,9 +31,9 @@ rtmp://58.200.131.2:1935/livetv/startv
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822384~exp=1623908784~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=4b9dba203e5cf409a25491b6e73ea2bd70729ef0b8006f0a48e51c1a40cc70c1&p=3320
 #EXTINF:-1 tvg-logo="", 無線新聞台（HD）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822610~exp=1623909010~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=efe4c2d8d7df8f7b4fa41357883697e2db5ed23d852b2fec1c8a8849a4853d1d&p=3324
-#EXTINF:-1 tvg-logo="", 無線財經 資訊台（SD）
+#EXTINF:-1 tvg-logo="", 無線財經-資訊台（SD）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822867~exp=1623909267~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=b60e82619cfb307019015f652c1c5211a3538d2e71a5a50760af0a1690d9f1fb&p=3137
-#EXTINF:-1 tvg-logo="", 無線財經 資訊台（HD）
+#EXTINF:-1 tvg-logo="", 無線財經-資訊台（HD）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822768~exp=1623909168~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=1005cc4a6294d0f7647da92a64d961754054f87f72dc4eaf03d600c2f5f3d69d&p=3139
 #EXTINF:-1 tvg-logo="", 立法會會議（HD）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_NEVT1_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822936~exp=1623909336~acl=/__cl/slocalr2625/__c/ott_NEVT1_h264/__op/default/__f/*~hmac=23c539cf9a4d2c2df85eb9c5bacadf72880aa88e24fe9746881ec414526f0e48&p=3320
