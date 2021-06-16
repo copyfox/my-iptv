@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
 vjms://58.215.133.154:8500:3502/live/cid=362#http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video#p8p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 翡翠台
 http://m.567it.com/jade.m3u8
@@ -21,3 +27,14 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", 星空衛視
 rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-logo="", 無線新聞台（SD）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822384~exp=1623908784~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=4b9dba203e5cf409a25491b6e73ea2bd70729ef0b8006f0a48e51c1a40cc70c1&p=3320
+#EXTINF:-1 tvg-logo="", 無線新聞台（HD）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822610~exp=1623909010~acl=/__cl/slocalr2625/__c/ott_C_h264/__op/default/__f/*~hmac=efe4c2d8d7df8f7b4fa41357883697e2db5ed23d852b2fec1c8a8849a4853d1d&p=3324
+#EXTINF:-1 tvg-logo="", 無線財經 資訊台（SD）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822867~exp=1623909267~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=b60e82619cfb307019015f652c1c5211a3538d2e71a5a50760af0a1690d9f1fb&p=3137
+#EXTINF:-1 tvg-logo="", 無線財經 資訊台（HD）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822768~exp=1623909168~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=1005cc4a6294d0f7647da92a64d961754054f87f72dc4eaf03d600c2f5f3d69d&p=3139
+#EXTINF:-1 tvg-logo="", 立法會會議（HD）
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_NEVT1_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1623822936~exp=1623909336~acl=/__cl/slocalr2625/__c/ott_NEVT1_h264/__op/default/__f/*~hmac=23c539cf9a4d2c2df85eb9c5bacadf72880aa88e24fe9746881ec414526f0e48&p=3320
+
